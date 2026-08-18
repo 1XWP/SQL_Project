@@ -68,3 +68,6 @@ LEFT JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 WHERE salary_year_avg > 70000;
 
 */
+
+---
+/* test */
